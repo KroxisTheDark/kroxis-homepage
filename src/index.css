@@ -4,17 +4,17 @@
 
 /* Font imports */
 @font-face {
-    "Open Sans", sans-serif;
+    font-family: "Open Sans", sans-serif;
     src: url("./assets/fonts/OpenSans-Condensed-Light.ttf");
 }
 
 @font-face {
-    "Open Sans", sans-serif;
+    font-family: "Open Sans", sans-serif;
     src: url("./assets/fonts/OpenSans-Light.ttf");
 }
 
 @font-face {
-    "Open Sans", sans-serif;
+    font-family: "Open Sans", sans-serif;
     src: url("./assets/fonts/OpenSans-SemiCondensed-Light.ttf");
 }
 
