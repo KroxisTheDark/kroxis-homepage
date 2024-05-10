@@ -24,6 +24,7 @@
     --icewhite: #ebebeb;
     --grey: #5d5d5d;
     --lightblue: #9daaf2;
+    --green: #008000;
     --darkblue: #1a2238;
     --blackblue: #0c1220;
     --orange: #ff6a3d;
@@ -35,4 +36,20 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--green);
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--darkblue);
   }
