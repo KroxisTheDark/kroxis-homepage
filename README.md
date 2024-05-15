@@ -13,10 +13,3 @@ This is my portfolio website.
 ## License
 
 MIT License
-
-## How to use
-
-* git clone
-* cd kroxis-homepage
-* npm install
-* npm run dev
