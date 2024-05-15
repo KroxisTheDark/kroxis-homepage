@@ -4,11 +4,19 @@ This is my portfolio website.
 
 ## Stack
 
-* Vite
-* ReactJS
-* TailwindCSS
-* React-router
+* [Vite](https://vitejs.dev/) - for fast and efficient development.
+* [ReactJS](https://react.dev/) - The library for web and native user interfaces.
+* [TailwindCSS](https://tailwindcss.com/) - A utility-first CSS framework.
+* [React-router](https://reactrouter.com/en/main) - Library used to handle client and server-side routing in React applications.
+* [Typescript](https://www.typescriptlang.org/) - strongly typed programmind language.
 
-### License
+## License
 
 MIT License
+
+## How to use
+
+* git clone
+* cd kroxis-homepage
+* npm install
+* npm run dev
