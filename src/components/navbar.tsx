@@ -1,5 +1,3 @@
-
-
 const NavBar = () => {
     <div>navbar</div>
 }
