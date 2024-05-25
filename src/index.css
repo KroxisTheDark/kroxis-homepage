@@ -28,6 +28,7 @@
     --darkblue: #1a2238;
     --blackblue: #0c1220;
     --orange: #ff6a3d;
+    
     --box-shadow-color: inherit;
     --transparent: transparent;
 }
@@ -36,6 +37,14 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
 }
 
 ::-webkit-scrollbar {
@@ -47,7 +56,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background: var(--green);
+    background: var(--white);
 }
 
 ::-webkit-scrollbar-thumb:hover {

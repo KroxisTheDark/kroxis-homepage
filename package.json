@@ -1,9 +1,9 @@
 {
-  "name": "kroxis-homepage",
+  "name": "Vladislav-Homepage",
   "author": "Vladislav Zhukov",
   "license": "MIT",
   "private": true,
-  "description": "Vladislav's website",
+  "description": "Vladislav's home website",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
